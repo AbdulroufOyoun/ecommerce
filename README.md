@@ -1,4 +1,4 @@
-# Local Container Setup
+# Local Setup
 
 
 ## Application ports
