@@ -21,7 +21,7 @@ shell
 
 ## Using
 use the acount below to login with super admin acount 
-email: admin@gmail.com 
-password: admin
+email: ' admin@gmail.com ' , 
+password: 'admin' 
 
    
