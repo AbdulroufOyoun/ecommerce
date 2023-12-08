@@ -18,4 +18,10 @@ shell
     run command: php artisan migrate
     run command: php artisan server
 
+
+## Using
+use the acount below to login with super admin acount 
+email: admin@gmail.com 
+password: admin
+
    
